@@ -6,3 +6,5 @@ As the online forum discussion draws to a conclusion there is a consensus that w
 
 I posted a suggestion that those wishing to use Github, or upskill, we could run a comparitive trial as an extra aside to the course. If there's any takers I will activate them as collaborators on this public repo.
 
+Collaborators will make their own branch and can edit the .docx file or the SharingDocument.md file. The master branch is protected but changes can be made to the master once pull requests have been accepted by the group.
+
